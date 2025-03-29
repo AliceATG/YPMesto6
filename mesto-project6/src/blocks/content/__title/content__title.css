@@ -1,0 +1,9 @@
+.content__title {
+  font-size: 24px;
+  font-weight: 900;
+  align-items: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: 0;
+}
